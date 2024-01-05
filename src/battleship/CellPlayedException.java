@@ -4,8 +4,7 @@ package battleship;
  * A BattleshipException that informs the program that it attempted to
  * "hit" the same Cell instance more than once
  *
- * @author Shreya Pramod    sp3045@rit.edu
- * @author Disha Revandkar  dr6742@rit.edu
+ * @author Disha Revandkar  
  */
 public class CellPlayedException extends BattleshipException {
 

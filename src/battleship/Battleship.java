@@ -5,8 +5,7 @@ import java.io.*;
 /**
  * The main class that runs the game.
  *
- * @author Shreya Pramod    sp3045@rit.edu
- * @author Disha Revandkar  dr6742@rit.edu
+ * @author Disha Revandkar  
  */
 
 public class Battleship {

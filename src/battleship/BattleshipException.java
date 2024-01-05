@@ -3,8 +3,7 @@ package battleship;
 /**
  * The Battleship exception class.
  *
- * @author Shreya Pramod    sp3045@rit.edu
- * @author Disha Revandkar  dr6742@rit.edu
+ * @author Disha Revandkar  
  */
 public class BattleshipException extends Exception {
 

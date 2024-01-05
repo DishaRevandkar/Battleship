@@ -6,7 +6,6 @@ package battleship;
  * are descriptive and match the words put in the configuration
  * files.
  *
- * @author  CS RIT
  */
 public enum Orientation {
     HORIZONTAL(0, 1), VERTICAL(1, 0);

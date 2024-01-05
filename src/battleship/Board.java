@@ -7,8 +7,7 @@ import java.util.ArrayList;
 /**
  * The class to represent the grid of cells (squares).
  *
- * @author Shreya Pramod    sp3045@rit.edu
- * @author Disha Revandkar  dr6742@rit.edu
+ * @author Disha Revandkar  
  */
 public class Board implements Serializable {
     private int height;

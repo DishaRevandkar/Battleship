@@ -18,5 +18,7 @@ Code Structure
 The project is organized into three main classes:
 
 Battleship.java: Main class handling game setup, input, and overall game flow.
+
 Board.java: Represents the game board, manages ships, and provides board-related functionalities.
+
 Cell.java: Represents individual cells on the game board, manages ship placement, hit status, and display.
